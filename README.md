@@ -1,30 +1,26 @@
-# client
+## NODE and EXPRESS Basics
 
-> A Vue.js Project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+  new file:   .gitignore
+  new file:   404.html
+	new file:   README.md
+	modified:   app.js
+	copied:     async_file_dir.js
+	new file:   contact.html
+	modified:   func_fun.js
+	new file:   index.html
+	new file:   node_events.js
+	new file:   node_serving_html_404.js
+	renamed:    node_util.js
+	new file:   package-lock.json
+	new file:   package.json
+	new file:   pipe_rw_res.js
+	new file:   read_stream.js
+	modified:   readme.txt
+	new file:   sample_app.js
+	new file:   server_setup.js
+	new file:   serving_html.js
+	new file:   serving_json.js
+	renamed:    sync_file_dir.js
+	renamed:    timeout_interval.js
+	new file:   write_stream.js
+	new file:   writeme.txt
