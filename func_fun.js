@@ -1,5 +1,3 @@
-console.log('hello tim');
-
 // NORMAL FUNCTION JS //
 // function sayHi(){
 //   console.log("say hi.");

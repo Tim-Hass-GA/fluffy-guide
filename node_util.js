@@ -1,4 +1,3 @@
-console.log('hello tim');
 // include the count.js file
 // require the module in this file
 // var math_helper = require('./math_helper');
