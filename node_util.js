@@ -1,9 +1,3 @@
-// include the count.js file
-// require the module in this file
-// var math_helper = require('./math_helper');
-// console.log(math_helper.length_counter(['shaun', 'crystal', 'ryu', 'timmy']));
-// console.log(math_helper.my_adder(2,2));
-
 // built in node module that allows you to
 // interact with event emmitters
 var events = require('events');

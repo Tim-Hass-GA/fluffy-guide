@@ -7,13 +7,16 @@
 
 //
 function callFunction(fun){
-  fun()
+  // execute the function passed to me...
+  fun();
 }
 
 // FUNCITON EXPRESSION //
 var sayBye = function(){
-  console.log("say bye...yo")
+  console.log("say bye...yo");
 };
 
 // sayBye();
+// send the function instead of a value
+// to the other function...
 callFunction(sayBye);

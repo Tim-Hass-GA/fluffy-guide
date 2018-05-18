@@ -17,7 +17,7 @@ var time = 0;
 const fivesec_timer = setInterval(function(){
   time += 2;
   console.log(time, ' seconds have passed');
-  if (time > 5){
+  if (time > 7){
     clearInterval(fivesec_timer);
   }
 },2000);
