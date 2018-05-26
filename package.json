@@ -4,6 +4,7 @@
   "description": "node express basics",
   "main": "app.js",
   "dependencies": {
+    "co": "^4.6.0",
     "express": "^4.16.3",
     "node-fetch": "^2.1.2",
     "random-number": "0.0.9"
